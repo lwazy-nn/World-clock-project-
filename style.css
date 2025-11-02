@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #cbc4df;
   font-family: sans-serif;
 }
 
@@ -25,9 +25,9 @@ select {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background: rgb(208, 234, 238);
   padding: 30px;
-  box-shadow: rgba(190, 92, 152, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(182, 56, 134, 0.769) 0px 7px 29px 0px;
   border-radius: 10px;
 }
 
@@ -36,7 +36,7 @@ select {
   margin: 10px 0;
   justify-content: space-between;
   padding: 30px 0;
-  border-bottom: 1px dashed rgba(143, 99, 171, 0.554);
+  border-bottom: 1px dashed rgba(86, 66, 99, 0.662);
 }
 
 .city:last-child {
